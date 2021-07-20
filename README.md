@@ -1,7 +1,11 @@
 # login-script
 Script that will automatically sign you up for a class as soon as it is available.
 
-requires selenium package
-
-# Windows installation:
+# installing selenium package
+Windows:
 py -m pip selenium
+
+# patch notes
+
+version 0.1:
+  login function only available
