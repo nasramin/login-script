@@ -7,5 +7,9 @@ py -m pip selenium
 
 # patch notes
 
-version 0.1:
+version 0.01:
   login function only available
+
+version 0.02:
+  optimized phone verification process
+  class search function
